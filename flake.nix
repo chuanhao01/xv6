@@ -36,6 +36,7 @@
             binutils
             man-pages
             qemu
+            gcc # We need original gcc?
           ];
 
           # Optional: set environment variables if your build system expects them
