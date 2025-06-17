@@ -43,6 +43,7 @@
             gcc # We need original gcc?
             python
             uv
+            gdb
           ];
 
           env =
